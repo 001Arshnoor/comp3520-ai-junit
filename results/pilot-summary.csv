@@ -1,0 +1,5 @@
+method,prompt,tests_generated,failures_on_correct_code,seeded_defects_detected,seeded_defects_tested,observation
+ShippingPolicy,basic,6,0,1,1,Caught the exact 5000-cent threshold
+ShippingPolicy,structured,9,0,1,1,Caught the exact 5000-cent threshold
+ReturnPolicy,basic,11,0,2,2,Day 0 detected on initial run. Day 30 had zero failures initially and one on rerun. Cause unverified.
+ReturnPolicy,structured,9,0,2,2,Day 0 detected on initial run. Day 30 had zero failures initially and one on rerun. Cause unverified.

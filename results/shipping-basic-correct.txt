@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: ca.tru.comp3520.ShippingPolicyTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 s -- in ca.tru.comp3520.ShippingPolicyTest
